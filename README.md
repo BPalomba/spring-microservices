@@ -1,19 +1,20 @@
 Spring Boot Microservices Project 🚀
 This project implements a microservices architecture using Spring Boot, with MariaDB and PostgreSQL as databases.
 
-🛠️ Technologies Used
-Spring Boot (Spring Cloud, Spring Data JPA, Spring Security)
-MariaDB and PostgreSQL (for data storage)
-Eureka (for service discovery)
-Spring Cloud Gateway (for API routing)
-Feign Client (for inter-service communication)
+## 🛠️ Technologies Used  
+- **Spring Boot** (Spring Cloud, Spring Data JPA, Spring Security)  
+- **MariaDB** and **PostgreSQL** (for data storage)  
+- **Eureka** (for service discovery)  
+- **Spring Cloud Gateway** (for API routing)  
+- **Feign Client** (for inter-service communication)  
 
-📌 Features
-✅ Microservices-based architecture
-✅ Hybrid database approach: MariaDB & PostgreSQL
-✅ Load balancing and API routing with Spring Cloud Gateway
-✅ Service-to-service communication using Feign Client
-✅ Centralized configuration with Spring Cloud Config
+## 📌 Features  
+✅ **Microservices-based architecture**  
+✅ **Hybrid database approach:** MariaDB & PostgreSQL  
+✅ **Load balancing and API routing with Spring Cloud Gateway**  
+✅ **Service-to-service communication using Feign Client**  
+✅ **Centralized configuration with Spring Cloud Config**  
+
 
 ## 📡 API Endpoints  
 
